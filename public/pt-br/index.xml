@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anchiao</title>
+    <link>http://www.example.com/pt-br/</link>
+    <description>Recent content on Anchiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://www.example.com/pt-br/posts/test/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/posts/test/</guid>
+      <description>中文專用</description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>http://www.example.com/pt-br/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>http://www.example.com/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+  </channel>
+</rss>
