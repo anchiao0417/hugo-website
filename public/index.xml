@@ -100,16 +100,14 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About Me</title>
       <link>http://www.example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Hi, My Name is Anchiao and I’m a Software Engineer.
+I was born and raised in Taipei, Taiwan. I could remember playing with some HTML codes when I was 12, amazed by how some lines of words could make a website looks amusing!
+I’ve been blogging since 2017, and as I have grown to become the person that I am today, this blog has grown with me too. Today, this blog is here to inform and inspire the readers about developing programs, some coding tips, also helping fellow creators to grow along the way.</description>
     </item>
     
   </channel>

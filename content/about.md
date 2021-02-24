@@ -1,29 +1,17 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Hi, My Name is Anchiao and I’m a Software Engineer.
 
+I was born and raised in Taipei, Taiwan. I could remember playing with some HTML codes when I was 12, amazed by how some lines of words could make a website looks amusing! 
 
-It makes use of a variety of open source projects including:
+I’ve been blogging since 2017, and as I have grown to become the person that I am today, this blog has grown with me too. Today, this blog is here to inform and inspire the readers about developing programs, some coding tips, also helping fellow creators to grow along the way.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Aside of working as a engineer and content creating, I love to smoke a joint after a long day work, playing some chill music or watching movies at home. One day when I’m settling down, I want to become a hippie living in the mountain! But for now, I had so much fun creating content and I can’t wait to see how this will grow and evolve in the future. 
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Thank you for visiting and I hope you enjoy what you’re reading!
 
-## Setup
+xoxo
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
